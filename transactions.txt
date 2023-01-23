@@ -1,0 +1,2 @@
+Withdrew 100.0 			Balance: -49.5
+Withdrew 20.0 			Balance: 30.5
